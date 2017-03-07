@@ -9,3 +9,10 @@ To enable contributions:
   - Change directory to your newly cloned folder (It should be: \whatever\folder\path\you\saved\it\in\IST256FinalProject)
   - Open either Jupyter or IDLE (Whichever we decide to do the project in)
   - Magic
+
+To enable contributions(In CMD):
+  - git status
+  - git pull --all
+  - git add --all
+  - git commit -m ""
+  - git push origin master
